@@ -1,0 +1,11 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"batch wrapper for Ran Peleg's ExportToPython",
+	"description":	{
+		"":	"Export every design in a project folder to build123d Python scripts"
+	},
+	"version":	"1.0",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
